@@ -1,17 +1,14 @@
 <template>
     <div>
+        跳转成功！
+        <a href="#/">点击跳转回去</a>
         <img src="../assets/logo.png" alt="">
-        dingqi修改
-        <a href="#/leidan">点击跳转试一试</a>
+
     </div>
 </template>
 
 <script>
 export default {
-    name:"Dingqi"
+    
 }
 </script>
-
-<style>
-
-</style>
